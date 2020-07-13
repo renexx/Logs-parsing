@@ -5,10 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 namespace Logs
 {
-    /*
-     * Author: René Bolf (rbolf.rene@gmail.com)
-     * Project: Interview task in Safetica
-     */
+  
     class Program
     {
         static void Main(string[] args)
@@ -78,7 +75,7 @@ namespace Logs
             {
                 Console.WriteLine("File does not exist, Please enter a valid file path");
             }
-            
+
         }
     }
 }

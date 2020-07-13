@@ -1,0 +1,1071 @@
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:041>
+<Thread: 4680>
+<Process: 34376>
+File1 [455]: Class:Function1
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:088>
+<Thread: 4680>
+<Process: 34376>
+File1 [520]: Class:Function2
+Converting database...
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:088>
+<Thread: 4680>
+<Process: 34376>
+File2 [750]: Class:Function2
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:088>
+<Thread: 4680>
+<Process: 34376>
+File3 [10]: Class:Function55
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Error>
+<Date: 2020.02.22>
+<Time: 20:32:55:088>
+<Thread: 4680>
+<Process: 34376>
+File1 [455]: Class:Function55
+Error message1
+Error message2
+
+Error: 0x80040E14, 137 (FileName.cpp [152])
+StackTrace:
+Message01
+Message02
+-------------------------------------------------------------------------------
+<Type: Debug>
+<Date: 2020.02.22>
+<Time: 20:32:55:088>
+<Thread: 4680>
+<Process: 34376>
+File2 [1455]: Class:Function55
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:088>
+<Thread: 4680>
+<Process: 34376>
+File1 [455]: Class:Function55
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Critical>
+<Date: 2020.02.22>
+<Time: 20:32:55:088>
+<Thread: 4680>
+<Process: 34376>
+File8 [738]: Class:Function1
+StackTrace:
+Function1
+Function2
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:088>
+<Thread: 4680>
+<Process: 34376>
+File1 [455]: Class:Function1
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:55:088>
+<Thread: 40256>
+<Process: 34376>
+File1 [455]: Class:Function1
+Error doing action...
+-------------------------------------------------------------------------------
+<Type: Error>
+<Date: 2020.02.22>
+<Time: 20:32:55:120>
+<Thread: 33196>
+<Process: 34376>
+File1 [455]: Class:Function14
+Error message1
+Error message2
+Error message3
+
+Error: 0x90020B14, 127 (FileName4.cpp [589])
+StackTrace:
+Message01
+Message02
+Message03
+Message04
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:120>
+<Thread: 4680>
+<Process: 34376>
+File1 [455]: Class:Function14
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:55:120>
+<Thread: 40256>
+<Process: 34376>
+File1 [455]: Class:Function14
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:135>
+<Thread: 4680>
+<Process: 34376>
+File1 [455]: Class:Function14
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:55:135>
+<Thread: 40256>
+<Process: 34376>
+File1 [455]: Class:Function15
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:135>
+<Thread: 4680>
+<Process: 34376>
+File1 [455]: Class:Function16
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:55:135>
+<Thread: 40256>
+<Process: 34376>
+File1 [455]: Class:Function5
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:307>
+<Thread: 4680>
+<Process: 34376>
+File1 [455]: Class:Function44
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:55:307>
+<Thread: 40256>
+<Process: 34376>
+File1 [455]: Class:Function44
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:307>
+<Thread: 4680>
+<Process: 34376>
+File1 [455]: Class:Function44
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:55:307>
+<Thread: 40256>
+<Process: 34376>
+File1 [455]: Class:Function44
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:416>
+<Thread: 4680>
+<Process: 34376>
+File1 [455]: Class:Function27
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:55:416>
+<Thread: 40256>
+<Process: 34376>
+File1 [455]: Class:Function28
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:416>
+<Thread: 4680>
+<Process: 34376>
+File1 [455]: Class:Function28
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:55:416>
+<Thread: 40256>
+<Process: 34376>
+File1 [455]: Class:Function30
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:495>
+<Thread: 4680>
+<Process: 34376>
+File1 [455]: Class:Function30
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:55:510>
+<Thread: 40256>
+<Process: 34376>
+File1 [455]: Class:Function30
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:510>
+<Thread: 4680>
+<Process: 34376>
+File1 [455]: Class:Function30
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:55:510>
+<Thread: 40256>
+<Process: 34376>
+File1 [455]: Class:Function30
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:526>
+<Thread: 4680>
+<Process: 34376>
+File1 [455]: Class:Function
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:55:526>
+<Thread: 40256>
+<Process: 34376>
+File1 [455]: Class:Function
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:526>
+<Thread: 4680>
+<Process: 34376>
+File1 [455]: Class:Function
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:55:526>
+<Thread: 40256>
+<Process: 34376>
+File1 [455]: Class:Function35
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:588>
+<Thread: 4680>
+<Process: 34376>
+File1 [455]: Class:Function35
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:55:588>
+<Thread: 40256>
+<Process: 34376>
+File2 [7]: Class:Function35
+Wait restartecppd
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:588>
+<Thread: 4680>
+<Process: 34376>
+File1 [455]: Class:Function35
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:55:588>
+<Thread: 40256>
+<Process: 34376>
+File1 [455]: Class:Function35
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:635>
+<Thread: 4680>
+<Process: 34376>
+File1 [455]: Class:Function21
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:55:635>
+<Thread: 40256>
+<Process: 34376>
+File1 [455]: Class:Function20
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:651>
+<Thread: 4680>
+<Process: 34376>
+File1 [455]: Class:Function
+Doing action...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:55:651>
+<Thread: 40256>
+<Process: 34376>
+File2 [7]: Class:Function
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:698>
+<Thread: 4680>
+<Process: 34376>
+File4 [7775]: Class:Function
+Debug logs 1...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:55:698>
+<Thread: 40256>
+<Process: 34376>
+File [1]: Class::Function
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:698>
+<Thread: 4680>
+<Process: 34376>
+File4 [7775]: Class:Function2
+Debug logs 88...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:55:698>
+<Thread: 40256>
+<Process: 34376>
+File4 [7775]: Class:Function2
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:760>
+<Thread: 4680>
+<Process: 34376>
+File1 [7775]: Class::Function1
+Debug logs 88...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:55:760>
+<Thread: 40256>
+<Process: 34376>
+File1 [7775]: Class::Function1
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:760>
+<Thread: 4680>
+<Process: 34376>
+File4 [7775]: Class::Function5
+Debug logs 1...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:55:760>
+<Thread: 40256>
+<Process: 34376>
+File4 [7775]: Class::Function5
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:885>
+<Thread: 4680>
+<Process: 34376>
+File2 [775]: Class::Function4
+Debug logs 1...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:55:885>
+<Thread: 40256>
+<Process: 34376>
+File2 [775]: Class::Function4
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Error>
+<Date: 2020.02.22>
+<Time: 20:32:55:885>
+<Thread: 4680>
+<Process: 34376>
+File2 [775]: Class::Function4
+Error message1
+Error message2
+Error message3
+
+Error: 0x90020B14, 127 (FileName3.cpp [58])
+StackTrace:
+Message01
+Message02
+Message03
+Message04
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:55:885>
+<Thread: 40256>
+<Process: 34376>
+File7 [75]: Class::Function7
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:885>
+<Thread: 4680>
+<Process: 34376>
+File7 [75]: Class::Function7
+Debug logs 13...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:55:885>
+<Thread: 40256>
+<Process: 34376>
+File7 [75]: Class::Function7
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:885>
+<Thread: 4680>
+<Process: 34376>
+File7 [75]: Class::Function7
+Debug logs 135...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:55:885>
+<Thread: 40256>
+<Process: 34376>
+File4 [7545]: Class::Function8
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Error>
+<Date: 2020.02.22>
+<Time: 20:32:55:948>
+<Thread: 4680>
+<Process: 34376>
+File1 [57]: Class::Function1
+Error message1
+Error message2
+
+Error: 0x90040B14, 127 (FileName2.cpp [158])
+StackTrace:
+Message01
+Message02
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:55:948>
+<Thread: 40256>
+<Process: 34376>
+File4 [7545]: Class::Function8
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:55:948>
+<Thread: 4680>
+<Process: 34376>
+File4 [7545]: Class::Function8
+Debug logs 7135...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:55:948>
+<Thread: 40256>
+<Process: 34376>
+File4 [7545]: Class::Function8
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:56:010>
+<Thread: 4680>
+<Process: 34376>
+File7 [74]: Class::Function15
+Debug logs 8...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:56:010>
+<Thread: 40256>
+<Process: 34376>
+File7 [74]: Class::Function15
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:56:010>
+<Thread: 4680>
+<Process: 34376>
+File7 [74]: Class::Function15
+Debug logs 8...
+Debug logs 9...
+Debug logs 10...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:56:010>
+<Thread: 40256>
+<Process: 34376>
+File7 [74]: Class::Function15
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:56:010>
+<Thread: 4680>
+<Process: 34376>
+File45 [114]: Class::Function
+Debug logs 5...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:56:010>
+<Thread: 40256>
+<Process: 34376>
+File45 [114]: Class::Function
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:56:010>
+<Thread: 4680>
+<Process: 34376>
+File45 [114]: Class::Function
+Debug logs 5...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:56:010>
+<Thread: 40256>
+<Process: 34376>
+File45 [114]: Class::Function
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:56:104>
+<Thread: 4680>
+<Process: 34376>
+File45 [114]: Class::Function
+Debug logs 55...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:56:120>
+<Thread: 40256>
+<Process: 34376>
+File4 [1414]: Class::Function1
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:56:120>
+<Thread: 4680>
+<Process: 34376>
+File4 [1414]: Class::Function1
+Debug logs 55...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:56:120>
+<Thread: 40256>
+<Process: 34376>
+File4 [1414]: Class::Function1
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:56:120>
+<Thread: 4680>
+<Process: 34376>
+File4 [1414]: Class::Function1
+Debug logs 55...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:56:370>
+<Thread: 40256>
+<Process: 34376>
+File8 [14144]: Class::Function87
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:56:370>
+<Thread: 4680>
+<Process: 34376>
+File8 [14144]: Class::Function87
+Debug logs 585...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:56:370>
+<Thread: 40256>
+<Process: 34376>
+File8 [14144]: Class::Function87
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:56:385>
+<Thread: 4680>
+<Process: 34376>
+File8 [14144]: Class::Function87
+Debug logs 585...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:56:385>
+<Thread: 40256>
+<Process: 34376>
+File8 [14144]: Class::Function87
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:56:401>
+<Thread: 4680>
+<Process: 34376>
+File8 [14144]: Class::Function87
+Debug logs 1585...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:56:401>
+<Thread: 40256>
+<Process: 34376>
+File8 [14144]: Class::Function87
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:56:401>
+<Thread: 4680>
+<Process: 34376>
+File8 [14144]: Class::Function87
+Debug logs 1585...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:56:401>
+<Thread: 40256>
+<Process: 34376>
+File [11]: Class::Function7
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:56:401>
+<Thread: 4680>
+<Process: 34376>
+File [11]: Class::Function7
+Debug logs 25...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:56:401>
+<Thread: 40256>
+<Process: 34376>
+File [11]: Class::Function7
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:56:463>
+<Thread: 4680>
+<Process: 34376>
+File [11]: Class::Function7
+Debug logs 25...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:56:479>
+<Thread: 40256>
+<Process: 34376>
+File [11]: Class::Function7
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:56:479>
+<Thread: 4680>
+<Process: 34376>
+File44 [1321]: Class::Function3
+Debug logs 25...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:56:479>
+<Thread: 40256>
+<Process: 34376>
+File44 [1321]: Class::Function3
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Error>
+<Date: 2020.02.22>
+<Time: 20:32:56:564>
+<Thread: 4680>
+<Process: 34376>
+File1 [455]: Class:Function14
+Error message1
+Error message2
+Error message3
+
+Error: 0x90020B14, 127 (FileName4.cpp [589])
+StackTrace:
+Message01
+Message02
+Message03
+Message04
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:56:564>
+<Thread: 40256>
+<Process: 34376>
+File44 [1321]: Class::Function3
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:56:564>
+<Thread: 4680>
+<Process: 34376>
+File44 [1321]: Class::Function3
+Debug logs 125...
+-------------------------------------------------------------------------------
+<Type: Error>
+<Date: 2020.02.22>
+<Time: 20:32:56:564>
+<Thread: 40256>
+<Process: 34376>
+File1 [455]: Class:Function55
+Error message1
+Error message2
+
+Error: 0x80040E14, 137 (FileName.cpp [152])
+StackTrace:
+Message01
+Message02
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:56:635>
+<Thread: 4680>
+<Process: 34376>
+File44 [1321]: Class::Function3
+Debug logs 125...
+Debug logs 126...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:56:635>
+<Thread: 40256>
+<Process: 34376>
+File5 [78]: Class::Function5
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:56:635>
+<Thread: 4680>
+<Process: 34376>
+File5 [78]: Class::Function5
+Debug logs 125...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:56:635>
+<Thread: 40256>
+<Process: 34376>
+File5 [78]: Class::Function5
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:56:729>
+<Thread: 4680>
+<Process: 34376>
+File5 [78]: Class::Function5
+Debug logs 125...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:56:729>
+<Thread: 40256>
+<Process: 34376>
+File55 [748]: Class::Function25
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:56:729>
+<Thread: 4680>
+<Process: 34376>
+File55 [748]: Class::Function25
+Debug logs 5...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:56:729>
+<Thread: 40256>
+<Process: 34376>
+File55 [748]: Class::Function25
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:56:729>
+<Thread: 4680>
+<Process: 34376>
+File1 [79]: Class::Function9
+Debug logs 5...
+-------------------------------------------------------------------------------
+<Type: Error>
+<Date: 2020.02.23>
+<Time: 20:32:56:729>
+<Thread: 40256>
+<Process: 34376>
+File1 [455]: Class:Function14
+Error message1
+Error message2
+Error message3
+
+Error: 0x90020B14, 127 (FileName4.cpp [589])
+StackTrace:
+Message01
+Message02
+Message03
+Message04
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:56:729>
+<Thread: 4680>
+<Process: 34376>
+File1 [79]: Class::Function9
+Debug logs 5...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:56:729>
+<Thread: 40256>
+<Process: 34376>
+File1 [79]: Class::Function9
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:56:823>
+<Thread: 4680>
+<Process: 34376>
+File51 [79]: Class::Function7
+Debug logs...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:56:823>
+<Thread: 40256>
+<Process: 34376>
+File51 [799]: Class::Function7
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:56:823>
+<Thread: 4680>
+<Process: 34376>
+File51 [799]: Class::Function7
+Debug logs...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:56:823>
+<Thread: 40256>
+<Process: 34376>
+File51 [799]: Class::Function7
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:56:885>
+<Thread: 4680>
+<Process: 34376>
+File8 [89]: Class::Function15
+Debug logs...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:56:885>
+<Thread: 40256>
+<Process: 34376>
+File8 [89]: Class::Function15
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:56:885>
+<Thread: 4680>
+<Process: 34376>
+File8 [89]: Class::Function15
+Debug logs...
+-------------------------------------------------------------------------------
+<Type: Error>
+<Date: 2020.02.22>
+<Time: 20:32:56:885>
+<Thread: 40256>
+<Process: 34376>
+File1 [455]: Class:Function55
+Error message1
+Error message2
+
+Error: 0x80040E14, 137 (FileName.cpp [152])
+StackTrace:
+Message01
+Message02
+-------------------------------------------------------------------------------
+<Type: Debug>
+<Date: 2020.02.22>
+<Time: 20:32:56:916>
+<Thread: 47884>
+<Process: 22840>
+File8 [89]: Class::Function15
+Thread Calendar started
+-------------------------------------------------------------------------------
+<Type: Debug>
+<Date: 2020.02.22>
+<Time: 20:32:56:916>
+<Thread: 4612>
+<Process: 22680>
+File1 [57]: Class::Function1
+Thread Calendar started
+-------------------------------------------------------------------------------
+<Type: Error>
+<Date: 2020.02.22>
+<Time: 20:32:56:995>
+<Thread: 27064>
+<Process: 34376>
+File1 [57]: Class::Function1
+Error message1
+Error message2
+
+Error: 0x90040B14, 127 (FileName2.cpp [158])
+StackTrace:
+Message01
+Message02
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:56:995>
+<Thread: 40256>
+<Process: 34376>
+File1 [57]: Class::Function1
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:56:995>
+<Thread: 27064>
+<Process: 34376>
+File6 [66657]: Class::Function16
+Debug logs 9...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:56:995>
+<Thread: 40256>
+<Process: 34376>
+File6 [66657]: Class::Function16
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:56:995>
+<Thread: 27064>
+<Process: 34376>
+File6 [66657]: Class::Function16
+Debug logs 9...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:56:995>
+<Thread: 40256>
+<Process: 34376>
+File6 [66657]: Class::Function16
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:57:026>
+<Thread: 27064>
+<Process: 34376>
+File6 [66657]: Class::Function16
+Debug logs 9...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:57:026>
+<Thread: 40256>
+<Process: 34376>
+File [1]: Class::Function
+Wait restarted
+-------------------------------------------------------------------------------
+<Type: Info>
+<Date: 2020.02.22>
+<Time: 20:32:57:026>
+<Thread: 27064>
+<Process: 34376>
+File [1]: Class::Function
+Debug logs 1...
+-------------------------------------------------------------------------------
+<Type: Verbose>
+<Date: 2020.02.22>
+<Time: 20:32:57:026>
+<Thread: 40256>
+<Process: 34376>
+File [1]: Class::Function
+Wait restarted
